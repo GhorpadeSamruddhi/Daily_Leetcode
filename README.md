@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/GhorpadeSamruddhi/Daily_Leetcode/tree/master/0070-climbing-stairs) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/GhorpadeSamruddhi/Daily_Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/GhorpadeSamruddhi/Daily_Leetcode/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/GhorpadeSamruddhi/Daily_Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
