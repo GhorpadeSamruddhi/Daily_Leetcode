@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/GhorpadeSamruddhi/Daily_Leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
+## Array
+|  |
+| ------- |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/GhorpadeSamruddhi/Daily_Leetcode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 <!---LeetCode Topics End-->
